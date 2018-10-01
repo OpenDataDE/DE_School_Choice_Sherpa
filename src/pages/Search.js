@@ -7,7 +7,7 @@ class Search extends Component {
         return(
             <div>
                 <Header />
-                <Footer />
+                <div className="footer"><Footer /></div>
             </div>
         );
     }
