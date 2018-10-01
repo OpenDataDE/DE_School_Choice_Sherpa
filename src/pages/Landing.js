@@ -12,7 +12,9 @@ class Landing extends Component {
                <div><h1>
                         Navigating School Choice in Delaware?
                    </h1>
-                   <div className='icon-border'></div>
+                   <div className='icon-border'>
+                   
+                   </div>
                 </div> 
                <div className='footer'><Footer /></div> 
             </div>
