@@ -4,7 +4,9 @@ class Header extends Component {
     render() {
         return(
             <div>
-                <div className="top-border"></div>
+                <div className="top-border">
+                    School Choice <br></br> Sherpa
+                </div>
             </div>
         );
     }
