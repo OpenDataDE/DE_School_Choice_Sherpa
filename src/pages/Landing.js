@@ -6,6 +6,7 @@ import Footer from '../components/Footer.js';
 import { Link } from 'react-router-dom';
 
 class Landing extends Component {
+    
     render() {
         return(
             <div>
