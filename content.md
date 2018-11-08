@@ -22,7 +22,7 @@ The Delaware School Choice program offers a parent or guardian the opportunity t
 
 * Separate applications for each child must be submitted. 
 * Application to multiple schools can be submitted.
-* Invitation Status and Acceptance Criteria ( Ordered by Priority)
+* Invitation Status and Acceptance Criteria (Ordered by Priority)
   * Returning students who continue to meet the school requirements
   * Siblings of students already enrolled and who will be returning to the school
   * Children of employees
