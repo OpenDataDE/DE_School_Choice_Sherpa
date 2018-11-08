@@ -11,17 +11,10 @@ Each household in Delaware is assigned a feeder pattern school. The assigned fee
 The Delaware School Choice program offers a parent or guardian the opportunity to apply to schools of their choice in the case that the child's feeder school is not an appropriate fit for the child. Parents and guardians can choose to apply for their child to attend a traditional school outside of their feeder pattern, a charter school, a magnet school, a vo-tech school or a private school.
 
 # Timeline
-
-
-
-Prior to November
-Get Your Paperwork Ready
-First Monday in November
-Window to submit school choice application opens
-Second Wednesday in January 
-Window to submit school choice application closes
-Late February
-Parents are notified about invitation status
+Prior to November: Get Your Paperwork Ready
+First Monday in November: Window to submit school choice application opens
+Second Wednesday in January: Window to submit school choice application closes
+Late February: Parents are notified about invitation status
 Mid March
 Deadline to accept or decline school choice invitation
 Application Information
@@ -35,9 +28,6 @@ Children of employees
 Students living within the school district
 Students living outside the school district
 
-Find a School
-What’s a feeder school?
-What’s school choice?
 Any student not currently registered in a public school in the State of Delaware must be registered in their School of Residence before submitting a standard application form.
 A parent enrolling their child in kindergarten may submit the standard application form to the receiving local education agency up until the first day of the school year for enrollment in kindergarten during that school year. Delaware a child shall be considered 5 years of age if that child celebrates the child's fifth birthday on or before August 31 of the respective year.
 Get your paperwork ready!
