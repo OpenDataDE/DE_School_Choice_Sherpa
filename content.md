@@ -8,6 +8,8 @@ Each household in Delaware is assigned a feeder pattern school. The assigned fee
 
 # What’s school choice?
 
+The Delaware School Choice program offers a parent or guardian the opportunity to apply to schools of their choice in the case that the child's feeder school is not an appropriate fit for the child. Parents and guardians can choose to apply for their child to attend a traditional school outside of their feeder pattern, a charter school, a magnet school, a vo-tech school or a private school.
+
 # Timeline
 
 
