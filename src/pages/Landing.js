@@ -18,7 +18,7 @@ class Landing extends Component {
                         </h1>
                     </div>
                    <div className="icon-border">
-                        <Link to="/learn"><button>Learn about school Choice</button></Link> <Link to="/search"><button>Search your Schools</button></Link> <Link to="/schoolprofile"><button>Apply to a School</button></Link>
+                        <Link to="/learn"><div className="thought-bubble landing-icon">Learn about school Choice</div></Link> <Link to="/search"><div className="magnify-glass landing-icon">Search your Schools</div></Link> <Link to="/schoolprofile"><div classname="apple landing-icon">Apply to a School</div></Link>
                    </div>
                 </div> 
                <div className='footer'><Footer /></div> 

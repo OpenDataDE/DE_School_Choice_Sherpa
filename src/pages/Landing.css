@@ -16,3 +16,23 @@
 .title {
     padding: 10px
 }
+
+.thought-bubble {
+    background-image: url("../icons/sherpa_icons-01.png");
+}
+
+.magnify-glass {
+    background-image: url("../icons/sherpa_icons-02.png");
+    
+}
+
+.apple {
+    background-image: url("../icons/sherpa_icons-03.png");
+    
+}
+
+.landing-icon {
+    height: 100px;
+    width: 100px;  
+    background-size: contain;
+}
