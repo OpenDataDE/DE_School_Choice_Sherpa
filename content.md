@@ -8,7 +8,7 @@ Each household in Delaware is assigned a feeder pattern school. The assigned fee
 
 # What is a charter school?
 
-Charter schools are independent, tuition-free public schools, serving students from kindergarten to 12th grade. The “charter” establishing each school is a contract, which states the school’s mission, program and measurable goals. Charter schools may be authorized by the State Department of Education or a local school district. They are accountable to their authorizer, parents and the public. Charter schools are different from traditional public schools in that they can only remain open as long as they deliver the results that they promise (source: [www.decharternetwork.org](http://www.decharternetwork.org/About-Us/What-is-a-Charter-School).
+Charter schools are independent, tuition-free public schools, serving students from kindergarten to 12th grade. The “charter” establishing each school is a contract, which states the school’s mission, program and measurable goals. Charter schools may be authorized by the State Department of Education or a local school district. They are accountable to their authorizer, parents and the public. Charter schools are different from traditional public schools in that they can only remain open as long as they deliver the results that they promise (source: [www.decharternetwork.org](http://www.decharternetwork.org/About-Us/What-is-a-Charter-School)).
 
 # What’s school choice?
 
