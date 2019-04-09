@@ -32,12 +32,14 @@ Source: [The Pace Network Wilmington](http://pacewilmington.nationbuilder.com/)
 # Step 2. Get Your Paperwork Ready
 
 Register at home school (if not already enrolled). Gather necessary support documents.
+
 Set up an account on schoolchoicede.com and begin the application. Gather necessary information.
+
+Meet application deadlines.
 
 Complete supplemental materials. Is additional information, audition or interview required?
 
-
-# Step 4. Apply to a School
+# Step 3. Apply to a School
 
 Timeline
 * Prior to November: Get Your Paperwork Ready
@@ -57,5 +59,10 @@ Application Information
   * Students living outside the school district
 
 
-# Step 6. Status of Notification
+# Step 4. Status of Notification
 
+Check email/website for final decisions.
+
+Accept invitations for choice programs.
+
+Attend the orientation! Learn the rules, regulations, and fees/uniform requirements.
