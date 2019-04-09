@@ -6,6 +6,10 @@ School choice in Delaware is complex. Each Delaware household falls within a sch
 
 Each household in Delaware is assigned a feeder pattern school. The assigned feeder pattern school is the public school children are designated to attend. If a parent decides not to go through the school choice process the feeder pattern school this is where a child will be educated.
 
+# What is a charter school?
+
+Charter schools are independent, tuition-free public schools, serving students from kindergarten to 12th grade. The “charter” establishing each school is a contract, which states the school’s mission, program and measurable goals. Charter schools may be authorized by the State Department of Education or a local school district. They are accountable to their authorizer, parents and the public. Charter schools are different from traditional public schools in that they can only remain open as long as they deliver the results that they promise.
+
 # What’s school choice?
 
 The Delaware School Choice program offers a parent or guardian the opportunity to apply to schools of their choice in the case that the child's feeder school is not an appropriate fit for the child. Parents and guardians can choose to apply for their child to attend a traditional school outside of their feeder pattern, a charter school, a magnet school, a vo-tech school or a private school.
