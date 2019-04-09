@@ -37,32 +37,16 @@ Set up an account on schoolchoicede.com and begin the application. Gather necess
 Complete supplemental materials. Is additional information, audition or interview required?
 
 
-# Step 3. Choice Opens
-
-
-
 # Step 4. Apply to a School
 
-
-
-# Step 5. Choice Closes
-
-
-
-# Step 6. Status of Notification
-
-
-
-# Timeline
-
+Timeline
 * Prior to November: Get Your Paperwork Ready
 * First Monday in November: Window to submit school choice application opens
 * Second Wednesday in January: Window to submit school choice application closes
 * Late February: Parents are notified about invitation status
 * Mid March: Deadline to accept or decline school choice invitation
 
-# Application Information
-
+Application Information
 * Separate applications for each child must be submitted. 
 * Applications to multiple schools can be submitted.
 * Invitation Status and Acceptance Criteria (Ordered by Priority)
@@ -72,4 +56,6 @@ Complete supplemental materials. Is additional information, audition or intervie
   * Students living within the school district
   * Students living outside the school district
 
+
+# Step 6. Status of Notification
 
