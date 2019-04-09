@@ -33,7 +33,7 @@ Source: [The Pace Network Wilmington](http://pacewilmington.nationbuilder.com/)
 
 Register at home school (if not already enrolled). Gather necessary support documents.
 
-Set up an account on schoolchoicede.com and begin the application. Gather necessary information.
+Set up an account on [SchoolChoiceDE.com](https://www.schoolchoicede.org/Login.aspx?ReturnUrl=%2f) and begin the application. Gather necessary information.
 
 Meet application deadlines.
 
