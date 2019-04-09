@@ -31,6 +31,10 @@ Source: [The Pace Network Wilmington](http://pacewilmington.nationbuilder.com/)
 
 # Step 2. Get Your Paperwork Ready
 
+Register at home school (if not already enrolled). Gather necessary support documents.
+Set up an account on schoolchoicede.com and begin the application. Gather necessary information.
+
+Complete supplemental materials. Is additional information, audition or interview required?
 
 
 # Step 3. Choice Opens
