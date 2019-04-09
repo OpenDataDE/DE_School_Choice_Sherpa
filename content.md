@@ -37,7 +37,7 @@ Set up an account on [SchoolChoiceDE.com](https://www.schoolchoicede.org/Login.a
 
 Meet application deadlines.
 
-Complete supplemental materials. Is additional information, audition or interview required?
+Complete supplemental materials. Is additional information, such as an audition or interview, required?
 
 # Step 3. Apply to a School
 
