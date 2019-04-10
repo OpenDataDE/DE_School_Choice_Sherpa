@@ -31,13 +31,7 @@ Source: [The Pace Network Wilmington](http://pacewilmington.nationbuilder.com/)
 
 # Step 2. Get Your Paperwork Ready
 
-Register at home school (if not already enrolled). Gather necessary support documents.
-
-Set up an account on [SchoolChoiceDE.com](https://www.schoolchoicede.org/Login.aspx?ReturnUrl=%2f) and begin the application. Gather application information for the specific school district to which your child is applying by visting the [Delaware Department of Education's Choice Districts and Charters page](https://www.doe.k12.de.us/site/Default.aspx?PageID=185).
-
-Meet application deadlines.
-
-Complete supplemental materials. Is additional information, such as an audition or interview, required?
+In order for your child to be eligable for the school choice process they must first be enrolled at their feeder school (also known as school of residence). After you are sure they are enrolled the next step is to set up an account on [SchoolChoiceDE.com](https://www.schoolchoicede.org/Login.aspx?ReturnUrl=%2f) and begin the application. Gather application information for the specific school district to which your child is applying by visting the [Delaware Department of Education's Choice Districts and Charters page](https://www.doe.k12.de.us/site/Default.aspx?PageID=185). Complete supplemental materials. Is additional information, such as an audition or interview, required?
 
 # Step 3. Apply to a School
 
